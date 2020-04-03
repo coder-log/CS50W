@@ -1,3 +1,16 @@
 //styles.scss
 
+//Make here your changes to bootstrap to overrides originals styles
+$theme-colors: (
+    "primary": #ffcc00
+);
+    
+
+// Import bootstrap
 @import "node_modules/bootstrap/scss/bootstrap";
+
+/*
+footer {
+    background-color: #343a40;
+}
+*/
