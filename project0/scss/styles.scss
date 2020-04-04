@@ -9,8 +9,16 @@ $theme-colors: (
 // Import bootstrap
 @import "node_modules/bootstrap/scss/bootstrap";
 
-/*
-footer {
-    background-color: #343a40;
+/* ------------- Custom styles ----------------- */
+
+.logo {
+    font-family: Inconsolata, monospace;
+    font-weight: 700;
+    font-size: 150%;
 }
-*/
+
+.logo-yellow {
+    @extend .logo;
+    color: #ffcc00;
+}
+
