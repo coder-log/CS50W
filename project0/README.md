@@ -18,7 +18,7 @@ Personal web page that I will use to showcase my portfolio as a web developer.
 * Your website must have at least one stylesheet file.
     > The web has a css folder with two stylesheets.
 * Your stylesheet(s) must use at least five different CSS properties, and at least five different types of CSS selectors. You must use the #id selector at least once, and the .class selector at least once.
-    > All of these requirements are easily found in the stylesheets.
+    > All of these requirements are easily found in the stylesheets. See scss folder>styles.scss. Id selector have been implemented in full-stack-learning.html although with little change in style in order to mantain general design of the page.
 * Your stylesheet(s) must include at least one mobile-responsive @media query, such that something about the styling changes for smaller screens.
     > Done, there is a media query section.
 * You must use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
