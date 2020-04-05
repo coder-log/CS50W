@@ -7169,6 +7169,9 @@ a.text-dark:hover, a.text-dark:focus {
 .container {
   margin-top: 4rem; }
 
+.link-plus {
+  color: #c79c00; }
+
 .quote-card {
   background: #fff;
   color: #222222;
