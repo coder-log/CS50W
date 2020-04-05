@@ -15,6 +15,7 @@ $theme-colors: (
 $primary: #ffcc00;
 $primary-dark: #c79c00;
 $primary-ligth: #ffff50;
+$secondary-light: #dddddd;
 
 .logo {
     font-family: Inconsolata, monospace;
@@ -35,6 +36,11 @@ $primary-ligth: #ffff50;
 
     color:$primary-dark;
     
+}
+
+#dev-tools{
+    
+    font-style: italic;
 }
 
 /* ----- Icons styles ---------------------------*/

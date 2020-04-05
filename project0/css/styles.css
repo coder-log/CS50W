@@ -7154,6 +7154,9 @@ a.text-dark:hover, a.text-dark:focus {
 .link-plus {
   color: #c79c00; }
 
+#dev-tools {
+  font-style: italic; }
+
 /* ----- Icons styles ---------------------------*/
 .material-icons.md-18 {
   font-size: 18px; }
